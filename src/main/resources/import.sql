@@ -1,0 +1,9 @@
+-- INSERT INTO oneEntity (id, comment) values (1, 'first comment!');
+-- INSERT INTO oneEntity (id, comment) values (2, 'second comment!!');
+-- INSERT INTO oneEntity (id, comment) values (3, 'third comment!!!');
+-- -- INSERT INTO user (id, user_id, password, name) values (2, 'cmich8869', 'test', 'Myoungeun');
+-- -- INSERT INTO user (id, user_id, password, name) values (3, 'dsoop', 'test', 'daesoop');
+--
+-- INSERT INTO manyEntity (id, comment, oneEntity_id) values (1, 'many Entity first comment????', 1);
+-- INSERT INTO manyEntity (id, comment, oneEntity_id) values (2, 'many Entity second comment??', 2);
+-- INSERT INTO manyEntity (id, comment, oneEntity_id) values (3, 'many Entity third comment?', 1);
